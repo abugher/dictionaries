@@ -110,7 +110,7 @@
 1412	auction
 1413	auditorium
 1414	augment
-1415	auspicious
+1415	alligator
 1416	automobile
 1421	axiom
 1422	avalanche
@@ -283,7 +283,7 @@
 2261	diamond
 2262	dibs
 2263	dictionary
-2264	diffuser
+2264	moose
 2265	digit
 2266	dilated
 2311	dimple
