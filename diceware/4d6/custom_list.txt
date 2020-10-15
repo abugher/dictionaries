@@ -310,7 +310,7 @@
 2344	drift
 2345	drop
 2346	drum
-2351	dryer
+2351	dry
 2352	dubiously
 2353	duckling
 2354	duffel
@@ -961,7 +961,7 @@
 5351	rhapsody
 5352	rhetoric
 5353	rhino
-5354	rhubarb
+5354	random
 5355	rhyme
 5356	ribbon
 5361	riches
