@@ -329,7 +329,7 @@
 2415	eagerness
 2416	earlobe
 2421	easel
-2422	eavesdrop
+2422	eave
 2423	book
 2424	eccentric
 2425	echo
