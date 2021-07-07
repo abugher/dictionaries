@@ -57,13 +57,13 @@
 1243	nice
 1244	ammunition
 1245	amnesty
-1246	amoeba
+1246	antenna
 1251	amplify
 1252	amuse
 1253	anagram
 1254	anchor
 1255	android
-1256	anesthesia
+1256	cocaine
 1261	angel
 1262	animal
 1263	bracelet
@@ -579,7 +579,7 @@
 3513	iguana
 3514	illuminate
 3515	image
-3516	forth
+3516	cannabis
 3521	imitate
 3522	immigrant
 3523	imprint
