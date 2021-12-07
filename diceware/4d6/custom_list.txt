@@ -2,7 +2,7 @@
 1112	abandoned
 1113	abbreviate
 1114	abdomen
-1115	abhorrence
+1115	additive
 1116	abiding
 1121	abnormal
 1122	abrasion
@@ -399,8 +399,8 @@
 2613	eternal
 2614	ethics
 2615	etiquette
-2616	eucalyptus
-2621	eulogy
+2616	eagle
+2621	eligible
 2622	euphemism
 2623	euthanize
 2624	evacuate
