@@ -1,0 +1,1 @@
+These are word lists for use in random pass phrase generation.  Lists are organized by format.  Lists formatted for use with diceware are under the `diceware` directory.  Some lists originate from Electronic Frontier Foundation.  https://www.eff.org/dice
