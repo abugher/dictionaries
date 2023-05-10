@@ -12,3 +12,7 @@ custom list, to increase memorability.
 times as long.  A human would have a big job to curate it, with potential
 difficulty finding that many comfortable (easy to type, easy to spell) words,
 and further difficulty finding that many words while avoiding similar words.
+
+Five random words from a 4d6 list have the same entropy as four random words
+from a 5d6 list, with 3,656,158,440,062,976 possible values.  Each pass phrase
+is one of three and a half quadrillion possibilities of equal likelihood.
